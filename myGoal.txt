@@ -1,0 +1,3 @@
+- Hoàn thành khóa Reactjs loại xuất sắc
+- Có thêm kiến thức chuyên sâu về reactJs
+- Có project cá nhân về web với fronEnd là ReactJs, backEnd là Java
